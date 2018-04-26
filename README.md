@@ -21,8 +21,6 @@ application up and running.
 
 * webpack-dev-server npm package 2.11.12
 
-* start rails server - `bundle exec rails s`
-
-* start webpack dev server - `bin/webpack-dev-server`
+* start rails server & webpack dev server - `bundle exec foreman start``
 
 * Chrome browse to http://localhost:3000
