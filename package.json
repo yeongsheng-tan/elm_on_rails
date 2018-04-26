@@ -1,0 +1,15 @@
+{
+  "name": "elm_on_rails",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.4",
+    "elm": "^0.18.0",
+    "elm-webpack-loader": "^4.5.0"
+  },
+  "devDependencies": {
+    "elm-format": "^0.6.1-alpha",
+    "elm-hot-loader": "^0.5.4",
+    "elm-oracle": "^1.1.1",
+    "webpack-dev-server": "2.11.2"
+  }
+}
